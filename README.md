@@ -16,7 +16,7 @@ This internship program provides participants with an opportunity to gain hands-
 ### **Topic:** Career Aspirations of Gen-Z
 **Tasks:**
 - Collect and clean relevant data related to Gen-Z career aspirations.
-- Perform data analysis using MySQL and Excel to derive meaningful insights.
+- Perform data analysis using MySQL, Power BI and Excel to derive meaningful insights.
 - Create compelling visualizations and dashboards in Power BI to showcase insights effectively.
 - Prepare a comprehensive report summarizing findings and recommendations.
 
